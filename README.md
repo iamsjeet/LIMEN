@@ -1,4 +1,4 @@
-# 🧠 LIMEN — Decision Intelligence System
+# LIMEN — Decision Intelligence System
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
